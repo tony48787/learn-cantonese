@@ -1,0 +1,25 @@
+{
+  "name": "learn-cantonese",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tony48787/learn-cantonese.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tony48787/learn-cantonese/issues"
+  },
+  "homepage": "https://github.com/tony48787/learn-cantonese#readme"
+}
